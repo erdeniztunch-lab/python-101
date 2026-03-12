@@ -1,9 +1,9 @@
 # Escape Characters
 
 # What is an escape character
-# Somethimes you want to include special characters inside a string, but Python would normally reat them as part of the syntax.
+# Sometimes you want to include special characters inside a string, but Python would normally treat them as part of the syntax.
 
-# To solve this, python uses an escape character.
+# To solve this, Python uses an escape character.
 
 # The escape character is a backslash "\" followed by another character.
 
@@ -87,4 +87,4 @@ print("Hello\tWorld")
 # \b        backspace
 # \f        form feed
 # \ooo      octal value
-# xhh       hecadecimal value
+# \xhh      hexadecimal value

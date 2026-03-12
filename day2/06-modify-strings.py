@@ -16,16 +16,16 @@ print(a.upper())
 
 # ---------------------------------
 
-# Lovwer case
-# lower() coverts all characters to small letters.
+# Lower case
+# lower() converts all characters to small letters.
 
 # Example
 a = "Hello, World!"
 print(a.lower())
 
-# Output: hwllo, world!
+# Output: hello, world!
 
-# Often used when normalizin text, for example when checking search queries or emails.
+# Often used when normalizing text, for example when checking search queries or emails.
 
 # ---------------------------------
 
@@ -36,12 +36,12 @@ print(a.lower())
 
 # Example:
 
-a = " (Hello, World!)"
+a = " Hello, World! "
 print(a.strip())
 
-# Output:(Hello, World!)
+# Output: Hello, World!
 
-# User input often sontains extra spaces, so programs clean it before processing.
+# User input often contains extra spaces, so programs clean it before processing.
 
 # ---------------------------------
 
@@ -52,7 +52,7 @@ print(a.strip())
 a = "Hello, World"
 print(a.replace("H", "J"))
 
-# Output: Jello, World!
+# Output: Jello, World
 
 # Used when correcting text or replacing keywords in messages or files.
 

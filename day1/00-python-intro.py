@@ -9,8 +9,8 @@
 # 3- Work with databases and files
 # Python can connect to databases to read, add, or update data. It can also read and modify files on a computer.
 
-# 4- Analyze large data and perform complext math.
-# Python is widely used to prcess large datasets and run advanced calculations
+# 4- Analyze large data and perform complex math.
+# Python is widely used to process large datasets and run advanced calculations.
 
 # Create prototypes quickly and build real software
 # You can use Python to quickly build a working version of an idea, and the same code can later become part of a production system.
@@ -20,7 +20,7 @@
 # Why Python?
 
 # Runs on many platforms
-# Python works on Windows, Mac, Linux, Raspberry Pi, and many other system.
+# Python works on Windows, Mac, Linux, Raspberry Pi, and many other systems.
 # Example: You can write a Python script on Windows and run it on a Mac without changing the code.
 
 # Easy to read and write
@@ -38,8 +38,8 @@
 # You can write Python code in procedural, object oriented or functional style depending on the problem you are solving.
 # Examples:
 # Procedural: Step-by-step instructions like a recipe.
-# Object-Oriented Programming: Using classes and onjects, useful for complex programs like games or web apps.
-# Functional: Using functions as first-class obhects to handle data transformations, common in data pipelines.
+# Object-Oriented Programming: Using classes and objects, useful for complex programs like games or web apps.
+# Functional: Using functions as first-class objects to handle data transformations, common in data pipelines.
 
 
 # ------------------------------------------------------------------------------------------------------------------------------------------

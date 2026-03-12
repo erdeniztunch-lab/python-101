@@ -14,8 +14,8 @@ print("Hello World!")
 
 # Example
 
-print("Hello world!")
-print("Iam learning Python.")
+print("Hello World!")
+print("I am learning Python.")
 print("It is awesome!")
 
 # Python prints these lines one under another.
@@ -25,7 +25,7 @@ print("It is awesome!")
 # Quotes
 # Text in Python must be inside quotes.
 
-# You can use double quotes ("") or single (') quotes.
+# You can use double quotes ("") or single quotes ('').
 
 # Example
 

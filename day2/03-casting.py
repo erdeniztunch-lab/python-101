@@ -15,7 +15,7 @@
 
 # -----------------------
 
-# Conerting to integers (int())
+# Converting to integers (int())
 
 # int() converts values into whole numbers.
 
@@ -43,7 +43,7 @@ z = float("3")      # 3.0
 w = float("4.2")    # 4.2
 
 # Real-world example:
-# You may convert numbers to float when wokring with money, percentages, or measurements.
+# You may convert numbers to float when working with money, percentages, or measurements.
 
 # -----------------------
 

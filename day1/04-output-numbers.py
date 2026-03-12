@@ -28,10 +28,10 @@ print(778)
 
 # ----------
 
-# Mix thext and bumbers
+# Mix text and numbers
 # You can print text and numbers together by separating them with a comma.
 
 # Example
 print("I am", 22, "years old")
 
-# Python prints everthing in one line.
+# Python prints everything in one line.

@@ -20,7 +20,7 @@ name = "John"   # Text
 x = "Hello"
 # type = str
 
-# 2. Numberic types
+# 2. Numeric types
 # Used for numbers.
 
 x = 10   # int
@@ -29,7 +29,7 @@ z = 2j   # complex
 
 # int -> whole numbers
 # float -> decimal numbers
-# compex -> complex numbers (rarely used)
+# complex -> complex numbers (rarely used)
 
 # 3. Sequence types
 # Used for ordered collections of values.
@@ -44,7 +44,7 @@ e = range(6)                      # range
 fruits = ["apple", "banana", "cherry"]
 fruits[0] = "orange"
 
-# The list changes because list are modifiable.
+# The list changes because lists are modifiable.
 
 # tuple -> fixed collection
 # A tuple also stores multiple values, but you cannot change them after creation.
@@ -111,7 +111,7 @@ fruits = {"apple", "banana", "cherry"}
 
 # Example:
 
-is_logged_in = TimeoutError
+is_logged_in = True
 
 # Real-world example:
 # Booleans are used in decisions, like checking if a user is logged in or if a payment succeeded.
@@ -130,7 +130,7 @@ bytearray
 memoryview
 
 # Real-world example:
-# These are used when working with files, videos, or networkd data.
+# These are used when working with files, videos, or network data.
 
 # Beginners rarely use them directly.
 
@@ -167,7 +167,7 @@ print(type(x))
 # -----------------------------------
 
 # Data type is set automatically
-# Python automaticcaly understands the type based on the value.
+# Python automatically understands the type based on the value.
 
 # Example:
 x = "Hello"  # string
@@ -185,7 +185,7 @@ x = str("Hello")
 y = int(20)
 z = float(20.4)
 
-# Real-word example:
+# Real-world example:
 # This is useful when converting user input or data from APIs into the correct format.
 
 # -----------------------------------

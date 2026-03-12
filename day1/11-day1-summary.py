@@ -52,7 +52,7 @@ print("Hello World")
 # Python can print both text and numbers.
 
 print(5)
-print(2+4)
+print(2 + 4)
 
 # ----------------------------------------
 
@@ -104,7 +104,7 @@ _name = "John"
 
 # 1- Which function is used to print text in Python?
 # 2- Which symbol is used to create a comment in Python?
-# 3- In Pythın, each line of code usually represents what?
+# 3- In Python, each line of code usually represents what?
 # 4- Do you need a special keyword to create a variable in Python?
 # 5- What will this code print?
 
@@ -123,7 +123,7 @@ print(p)
 
 # 2- #
 
-# 3- A statement (an istruction for the computer)
+# 3- A statement (an instruction for the computer)
 
 # 4- No. A variable is created when you assign a value
 

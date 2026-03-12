@@ -1,12 +1,12 @@
 # Python Indentation
 
-# Indentation refers to the spaces the beginning of a code line.
+# Indentation refers to the spaces at the beginning of a code line.
 
 # Indentation in Python is part of the syntax.
 
 # In many programming languages, indentation is only for readability. The program works the same even if spacing changes.
 
-# But in Python, indentation defines a block of code, Python uses spaces at the beginning of a line to understand which code belongs together.
+# But in Python, indentation defines a block of code. Python uses spaces at the beginning of a line to understand which code belongs together.
 
 #----------
 
@@ -26,9 +26,9 @@
 
 #----------
 
-# for i in range(3)
+# for i in range(3):
 #     print(i)
-# print ("Done")
+# print("Done")
 
 # print(i) runs inside the loop because it is indented, while print("Done") runs after the loop because it is not indented.
 

@@ -5,7 +5,7 @@
 # float
 # complex
 
-# When you assign a number to a variable, Python automatically choose the correct type.
+# When you assign a number to a variable, Python automatically chooses the correct type.
 
 # Example:
 
@@ -30,7 +30,7 @@ x = 1
 y = 35656222554887711
 z = -3255522
 
-# Real-word example:
+# Real-world example:
 # Integers are used for counts, like number of users, items in a cart, or page views.
 
 # -----------------------------------
@@ -66,15 +66,15 @@ z = -97.9e100
 # -----------------------------------
 
 # 3- complex -> complex numbers
-# Complex numbers nontain a real part and an imaginary part.
+# Complex numbers contain a real part and an imaginary part.
 
 # Example:
 
-x = 3+5
+x = 3 + 5j
 y = 5j
 z = -5j
 
-# Real-word example:
+# Real-world example:
 # Complex numbers are used in engineering, physics, and signal processing.
 
 # Beginners rarely use them.
@@ -108,7 +108,7 @@ age = int("25")
 # -----------------------------------
 
 # Important rule
-# You cannot convert a compex number to int or float.
+# You cannot convert a complex number to int or float.
 
 # -----------------------------------
 
@@ -120,7 +120,7 @@ age = int("25")
 
 print(random.randint(1, 10))
 
-# This prints a random number between 1,9
+# This prints a random number between 1 and 10.
 
 # Real-world example:
 # Random numbers are used for games, simulations, passwords, or testing data.

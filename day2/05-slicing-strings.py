@@ -1,7 +1,7 @@
 # Slicing Strings
 
 # What is slicing
-# Slicin means taking a part of a string.
+# Slicing means taking a part of a string.
 
 # You do this using:
 # [start:end]

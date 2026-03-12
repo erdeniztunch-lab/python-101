@@ -9,10 +9,10 @@
 x = "Python is awesome"
 print(x)
 
-# Ouput: "Python is awesome"
+# Output: "Python is awesome"
 
 # Print multiple variables
-# You can print several variables seperated by a comma. Python adds a space automatically.
+# You can print several variables separated by a comma. Python adds a space automatically.
 
 y = "Python"
 z = "is"
@@ -27,7 +27,7 @@ print(y, z, u)
 q = "Python "
 w = "is "
 e = "awesome"
-print(x + y + z)
+print(q + w + e)
 
 # For numbers, + adds them mathematically:
 o = 5
@@ -37,7 +37,7 @@ print(o + l)
 # Output: 15
 
 # Mixing strings and numbers with +
-# You can print different data types together by seperating with commas:
+# You can print different data types together by separating them with commas:
 
 f = 5
 r = "John"

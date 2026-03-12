@@ -4,14 +4,14 @@
 # Example
 
 age = 30
-txt = "My name is John, I am " + age
+txt = "My name is John, I am " + str(age)
 print(txt)
 
-# This causes an error, beacuse Python cannot join a stirng and a number using "+"
+# Without str(age), this causes an error because Python cannot join a string and a number using "+"
 
 # Solution: f-strings
 
-# The modern way to combine text and values is f-string.
+# The modern way to combine text and values is an f-string.
 
 # You add f before the string and use {} as placeholders.
 
@@ -38,7 +38,7 @@ print(txt)
 
 # Output: The price is 40 dollars
 
-# Used for displaying prices, used data, or statistics.
+# Used for displaying prices, user data, or statistics.
 
 # -----------------------------------
 

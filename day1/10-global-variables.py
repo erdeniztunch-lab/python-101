@@ -1,9 +1,9 @@
 # Python - Global Variables
 
 # What is a global variable?
-# a variable created outside a function is called a global variable.
+# A variable created outside a function is called a global variable.
 
-# it can be used anywhere in the program, both inside and outside functions.
+# It can be used anywhere in the program, both inside and outside functions.
 
 # Using a global variable inside a function
 
@@ -46,8 +46,8 @@ print("Python is " + x)
 # ----------------------------
 
 # The global keyword
-# Normally variables created in function are local.
-# use global if you want to create or modify a global variable inside a function.
+# Normally, variables created in a function are local.
+# Use global if you want to create or modify a global variable inside a function.
 
 
 def myfuncti():

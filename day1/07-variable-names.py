@@ -1,7 +1,7 @@
 # Python Variable Names
 
 # What are variable names?
-# A variable name is the label you give to a value. It can be short (x) or descriptive (age, car_name)
+# A variable name is the label you give to a value. It can be short (x) or descriptive (age, car_name).
 
 # Rules for Python variable names
 '''

@@ -1,7 +1,7 @@
 # Concatenation
 # Concatenation means joining strings together.
 
-# In Pytho, you can combine strings using the + operator.
+# In Python, you can combine strings using the + operator.
 
 # -----------------------------
 
@@ -15,7 +15,7 @@ print(c)
 
 # Output: Helloworld
 
-# Pythin simply joins the strings together.
+# Python simply joins the strings together.
 
 # -----------------------------
 

@@ -27,7 +27,7 @@ print('He is called "Johnny"')
 # ---------------------------------
 
 # Assigning a string to a variable
-# You can store a stirng in a variable
+# You can store a string in a variable
 
 # Example
 
@@ -42,7 +42,7 @@ name = "Alice"
 # ---------------------------------
 
 # Multiline strings
-# you can write a string across multiple lines using triple quotes.
+# You can write a string across multiple lines using triple quotes.
 
 # Example
 a = '''Hello
@@ -113,7 +113,7 @@ print(len(a))
 # ---------------------------------
 
 # Check if text exists.
-# Use in to check if text exist inside a string.
+# Use in to check if text exists inside a string.
 
 txt = "The best things in life are free!"
 print("free" in txt)
@@ -129,8 +129,8 @@ print("free" in txt)
 
 # Example
 txt2 = "The best things in life are free!"
-print = ("expensive" not in txt2)
+print("expensive" not in txt2)
 
 # Output: True
 
-# Cehcking if forbidden words are not in a message.
+# Checking if forbidden words are not in a message.

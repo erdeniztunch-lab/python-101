@@ -15,7 +15,7 @@
 # Example
 
 # This is a comment
-print("Hello, Workd!")
+print("Hello, World!")
 
 # Python ignores the comment and only runs the print() line.
 
@@ -45,7 +45,7 @@ print("Hello, dude!")
 # Multiline comments
 
 # Python does not have a special syntax for multiline comments.
-# The common is add "#" to each line.
+# The common way is to add "#" to each line.
 
 # This is a comment
 # written in
